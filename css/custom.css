@@ -1,0 +1,19 @@
+html {
+    padding-top: 5%;
+}
+
+h1,h2,h3,h4,h5,h6,body {
+    font-family: "Oswald", sans-serif;
+}
+
+img {
+    max-width: 50%;
+    height: auto !important;
+}
+
+footer {
+    font-family: "Oswald", sans-serif;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
