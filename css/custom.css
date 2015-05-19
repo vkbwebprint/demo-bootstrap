@@ -12,8 +12,12 @@ img {
 }
 
 a.btn {
-    background-color: #efefef;
-    color: #434343;
+    background-color: #ffc107;
+    color: #000000;
+}
+
+a.btn:hover {
+    color: #000000;
 }
 
 footer {
